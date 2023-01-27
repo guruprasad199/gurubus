@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Sangitam Travels",
+        "time":"10:30pm",
+        "avlSeat":"10",
+        "price":"800"
+    },
+    {
+        "name":"Shree Sai Ram Travels",
+        "time":"8:30pm",
+        "avlSeat":"08",
+        "price":"1000"
+    },
+    {
+        "name":"Vaibhav Travels",
+        "time":"7:00pm",
+        "avlSeat":"13",
+        "price":"700"
+    },
+    {
+        "name":"Sainath Travels",
+        "time":"9:40pm",
+        "avlSeat":"05",
+        "price":"1200"
+    },
+    {
+        "name":"Guru Krupa Travels",
+        "time":"10:10pm",
+        "avlSeat":"09",
+        "price":"950"
+    }
+]
